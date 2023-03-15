@@ -1,0 +1,1 @@
+A simple api build with flask that is build to get data analyse it with an ai model and then send the data back to the server get a result and send it the user

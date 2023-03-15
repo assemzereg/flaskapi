@@ -1,0 +1,9 @@
+flask
+requests
+keras
+tensorflow
+torch
+matplotlib
+torchvision
+opencv-python
+sklearn
